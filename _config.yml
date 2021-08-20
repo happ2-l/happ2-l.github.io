@@ -15,7 +15,7 @@
 minimal_mistakes_skin    : "dark" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
-locale                   : "ko-KR"
+locale                   : "en-UK"
 title                    : "Happ2 Tech Blog"
 title_separator          : "&#124;"
 subtitle                 : "Version 1.0" # site tagline that appears below site title in masthead
@@ -109,9 +109,9 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "I'm an NLP researcher. <br> Let's keep learning the machine learning"
   location         : "Seoul"
-  email            : "pirensisco@krafton.com"
+  email            : # "pirensisco@krafton.com"
   links:
-    - label: "Email"
+    - label: "pirensisco@krafton.com"
       icon: "fas fa-fw fa-envelope-square"
       url: "mailto:pirensisco@krafton.com"
     - label: "Website"
